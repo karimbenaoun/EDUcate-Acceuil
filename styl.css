@@ -84,6 +84,7 @@ body,
   margin-bottom: 80px;
   display: flex;
   min-height: 500px;
+  max-width: 1300px;
   width: 100%;
   justify-content: space-between;
 }
